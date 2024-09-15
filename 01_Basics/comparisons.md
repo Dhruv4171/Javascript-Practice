@@ -99,6 +99,4 @@ console.log("2" === 2); // false
   - `undefined` always returns `false` in comparisons with numbers.
 - Use strict equality (`===`) when you want to compare both the value and the type.
 
-By understanding how JavaScript handles comparisons, you can avoid common pitfalls and write more reliable code!
-```
 
