@@ -18,9 +18,11 @@ let isLoggedIn = false
 // symbol => unique value
 
 // object 
-console.log(typeof(name))
-console.log(typeof(age))
+console.log(typeof(name))// => string
+console.log(typeof(age))// => number
 console.log(typeof(isLoggedIn))// => boolean
 console.log(typeof(undefined))// => undefined
 console.log(typeof(null))// => object
+
+
 
