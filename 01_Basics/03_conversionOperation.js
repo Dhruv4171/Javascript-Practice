@@ -68,5 +68,35 @@ let score4 = true
 // console.log(stringSomeNumber) => 33
 // console.log(typeof stringSomeNumber) => string
 
+// ************************************************** Operations ****************************************************************************
+let value = 3
+let negValue = -value
+//console.log(negValue)
 
+// console.log(2 + 2)
+// console.log(2 - 2)
+// console.log(2 * 2)
+// console.log(2 / 2)
+// console.log(2 ** 2) => Power
+// console.log(2 % 2) => modulo
+
+// let str1 = "Dhruv" 
+// let str2 = " Parwani"
+// let str3 = str1 + str2
+// console.log(str3)
+
+// console.log("1" + 2) => 12
+// console.log(1 + "2") => 12
+// console.log("1" + 2 + 2) => 122
+// console.log(1 + 2 + "2") => 32
+
+// console.log(true)
+// console.log(+true)
+// console.log(+"")
+// let num1 = num2 = num3 =  2 + 2 
+
+// gameCounter = 100
+// gameCounter++
+// ++gameCounter
+// console.log(gameCounter)
 
