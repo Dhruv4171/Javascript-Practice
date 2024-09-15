@@ -99,4 +99,3 @@ let negValue = -value
 // gameCounter++
 // ++gameCounter
 // console.log(gameCounter)
-
