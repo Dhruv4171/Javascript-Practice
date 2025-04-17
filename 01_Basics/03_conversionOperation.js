@@ -91,11 +91,11 @@ let negValue = -value
 // console.log(1 + 2 + "2") => 32
 
 // console.log(true)
-// console.log(+true)
-// console.log(+"")
+// console.log(+true) => 1
+// console.log(+"") => 0
 // let num1 = num2 = num3 =  2 + 2 
 
-// gameCounter = 100
+// let gameCounter = 100
 // gameCounter++
 // ++gameCounter
 // console.log(gameCounter)
