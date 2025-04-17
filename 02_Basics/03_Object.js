@@ -21,4 +21,23 @@ const JsUser = {
 // console.log(JsUser[mySym])
 // console.log(typeof JsUser[mySym])
 
-JsUser.location = "Noida"
+// JsUser.location = "Noida" 
+// Object.freeze(JsUser)
+// JsUser.location = "Delhi"
+// console.log(JsUser) => {
+// name: 'a1',
+// 'full name': 'a1 b1',
+// age: 18,
+// location: 'Noida',
+// isLoggedIn: false,
+// lastLoginDays: [ 'Monday', 'Tuesday' ],
+// [Symbol(key1)]: 'mykey1'
+//}
+
+JsUser.greeting = function(){
+    console.log(`Hello JS user ${this.name}`)
+}
+// console.log(JsUser.greeting) => [Function (anonymous)]
+// console.log(JsUser.greeting()) 
+// => Hello JS user a1
+// undefined
