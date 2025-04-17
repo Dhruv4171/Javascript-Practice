@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Arrays in JavaScript are ordered collections of elements, accessible via numeric indices. They can store elements of any type, including numbers, strings, objects, and even other arrays.
+Arrays in JavaScript are ordered collections of elements, accessible via numeric indices. They can store elements of any type, including numbers, strings, objects, and even other arrays.
 
 ---
 
@@ -14,9 +14,9 @@ Arrays in JavaScript are ordered collections of elements, accessible via numeric
 ```javascript
 const myArr = [0, 1, 2, 3, 4];
 ```
-
 
-This creates an array with elements `0` through `4`.
+
+This creates an array with elements `0` through `4`.
 
 ### Using the Array Constructor
 
@@ -24,9 +24,8 @@ This creates an array with elements `0` through `4`.
 ```javascript
 const myNewArr = new Array(1, 2, 3, 4, 5);
 ```
-
 
-This also creates an array with elements `1` through `5`.
+This also creates an array with elements `1` through `5`
 
 ---
 
@@ -34,7 +33,7 @@ This also creates an array with elements `1` through `5`.
 
 ### Adding and Removing Elements
 
-- **`push()`**: Adds one or more elements to the end of an array.
+- **`push()`**: Adds one or more elements to the end of an array.
 
   
 ```javascript
