@@ -17,3 +17,4 @@ const regularUser = {
 // console.log(regularUser.fullname.userfullname.lastname) => Deo
 const obj1 = {1:'a',2:'b'}
 const obj2 = {3:'a',4:'b'}
+
