@@ -14,7 +14,7 @@ const hello1 = function () {
 // Arrow Function
 const hello2 = () =>{
     let user = 'Jhon'
-    console.log(`hello ${user}`)
+    co0000nsole.log(`hello ${user}`)
 }
 // hello2() hello jhon
 
